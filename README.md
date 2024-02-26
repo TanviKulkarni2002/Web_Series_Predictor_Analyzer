@@ -1,0 +1,1 @@
+Web Series Predictor and Analyzer was developed by using K-Means clustering from Python's scikitlearn to group shows together in order to predict them when different genres and streaming platforms were provided as an input by the user.
